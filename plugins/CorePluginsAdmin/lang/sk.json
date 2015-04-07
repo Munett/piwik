@@ -1,0 +1,18 @@
+{
+    "CorePluginsAdmin": {
+        "Activate": "Aktivovať",
+        "Activated": "Aktivovaný",
+        "Active": "Aktívny",
+        "Deactivate": "Deaktivovať",
+        "Inactive": "Neaktívny",
+        "OncePluginIsInstalledYouMayActivateHere": "Po nainštalovaní modulu ho tu môžete aktivovať, alebo deaktivovať.",
+        "PluginHomepage": "Domovská stránka modulu",
+        "PluginsExtendPiwik": "Moduly rozširujú funkcionalitu projektu Piwik.",
+        "PluginsManagement": "Správa modulov",
+        "Status": "Stav",
+        "Theme": "Motív",
+        "Themes": "Motívy",
+        "ThemesManagement": "Spravovať motívy",
+        "Version": "Verzia"
+    }
+}

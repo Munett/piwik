@@ -1,0 +1,6 @@
+{
+    "Widgetize": {
+        "OpenInNewWindow": "Åben i et nyt vindue",
+        "TopLinkTooltip": "Eksporter Piwik rapporter som moduler og indlejre dit kontrolpanel i din applikation som en iframe."
+    }
+}

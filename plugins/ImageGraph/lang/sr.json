@@ -1,0 +1,5 @@
+{
+    "ImageGraph": {
+        "ColumnOrdinateMissing": "Kolona '%s' nije nađena u ovom izveštaju. Pokušajte bilo koju od %s"
+    }
+}

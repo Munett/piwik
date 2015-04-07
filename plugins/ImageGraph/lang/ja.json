@@ -1,0 +1,5 @@
+{
+    "ImageGraph": {
+        "ColumnOrdinateMissing": "列 '%s' は、このレポートで見つかりませんでした。%s のいずれかをお試しください。"
+    }
+}

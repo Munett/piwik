@@ -1,0 +1,8 @@
+{
+    "Events": {
+        "Event": "Hendelse",
+        "Events": "Hendelser",
+        "SwitchToSecondaryDimension": "Bytt til %s",
+        "ViewEvents": "Vis hendelser"
+    }
+}

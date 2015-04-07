@@ -1,0 +1,9 @@
+{
+    "MultiSites": {
+        "Evolution": "Entwicklung",
+        "LoadingWebsites": "Lade Webseiten",
+        "Pagination": "%s - %s von %s",
+        "PluginDescription": "Zeige und vergleiche alle Webseiten und Apps im hilfreichen 'Alle Websiten' Dashboard.",
+        "TopLinkTooltip": "Vergleichen Sie Webanalytikstatistiken für alle Ihre Webseiten."
+    }
+}

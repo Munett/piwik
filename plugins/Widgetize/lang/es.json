@@ -1,0 +1,6 @@
+{
+    "Widgetize": {
+        "OpenInNewWindow": "Abrir en una nueva ventana",
+        "TopLinkTooltip": "Exportar los informes de Piwik como una aplicación (widget) e incrustar el panel en su aplicación como un elemento iframe."
+    }
+}

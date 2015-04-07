@@ -1,0 +1,32 @@
+{
+    "Referrers": {
+        "Campaigns": "Kampanjer",
+        "ColumnCampaign": "Kampanje",
+        "ColumnSearchEngine": "Søkemotor",
+        "ColumnSocial": "Sosiale nettverk",
+        "ColumnWebsite": "Nettsted",
+        "ColumnWebsitePage": "Nettside",
+        "DirectEntry": "Direkte treff",
+        "Distinct": "Ulike henvisere etter henvisningstype",
+        "DistinctCampaigns": "ulike kampanjer",
+        "DistinctKeywords": "ulike nøkkelord",
+        "DistinctSearchEngines": "ulike søkemotorer",
+        "DistinctWebsites": "ulike nettsteder",
+        "Keywords": "Nøkkelord",
+        "Referrers": "Henvisere",
+        "SearchEngines": "Søkemotorer",
+        "Socials": "Sosiale nettverk",
+        "SubmenuSearchEngines": "Søkemotorer og nøkkelord",
+        "SubmenuWebsites": "Nettsteder",
+        "Type": "Henvisingstype",
+        "TypeCampaigns": "%s fra kampanjer",
+        "TypeDirectEntries": "%s direkte treff",
+        "TypeSearchEngines": "%s fra søkemotorer",
+        "TypeWebsites": "%s fra nettsteder",
+        "UsingNDistinctUrls": "(bruker %s forskjellige URL-er)",
+        "Websites": "Nettsteder",
+        "WidgetExternalWebsites": "Liste over eksterne nettsteder",
+        "WidgetSocials": "Liste over sosiale nettverk",
+        "XPercentOfVisits": "%s%% av besøk"
+    }
+}

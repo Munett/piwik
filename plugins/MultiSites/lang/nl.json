@@ -1,0 +1,8 @@
+{
+    "MultiSites": {
+        "Evolution": "Evolutie",
+        "LoadingWebsites": "Websites laden",
+        "Pagination": "%s - %s van %s",
+        "TopLinkTooltip": "Vergelijk Website statistieken van al je websites."
+    }
+}
