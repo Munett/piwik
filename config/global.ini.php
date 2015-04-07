@@ -308,7 +308,7 @@ hash_algorithm = whirlpool
 
 ; by default, Piwik uses PHP's built-in file-based session save handler with lock files.
 ; For clusters, use dbtable.
-session_save_handler = files
+session_save_handler = dbtable
 
 ; If set to 1, Piwik will automatically redirect all http:// requests to https://
 ; If SSL / https is not correctly configured on the server, this will break Piwik
@@ -788,4 +788,3 @@ SDK_batch_size = 10
 SDK_interval_value = 30
 
 ; NOTE: do not directly edit this file! See notice at the top
-
